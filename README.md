@@ -5,6 +5,8 @@ ummm well this is cool
 Just know that i use the term geek as a compliment
 
 Really handy [Tool](https://google.com/)
+
+👯 I’m looking to collaborate on anything and everything
 <!--
 **robot-time/robot-time** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
