@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ummm well this is cool
-##Things to know about me
+## Things to know about me
 Just know that i use the term geek as a compliment
 <!--
 **robot-time/robot-time** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
