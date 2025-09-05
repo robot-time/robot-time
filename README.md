@@ -8,4 +8,4 @@ Really handy [Tool](https://google.com/)
 
 👯 I’m looking to collaborate on anything and everything
 
-Ummm Get in touch thestudioispace@gmail.com
+
