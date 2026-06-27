@@ -2,6 +2,8 @@
 
 I build things that live at the intersection of AI, hardware, and human experience.
 
+Been on Github since I was 8 years old!
+
 ## What I'm Working On
 
 ### 🧠 AI & Machine Learning
